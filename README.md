@@ -17,46 +17,6 @@ Currently, I'm working as a **Production Approval Analyst**, while expanding my 
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-- Python
-- C++
-- Java
-- JavaScript
-- SQL
-
-### Machine Learning & AI
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- OpenCV
-- YOLO (v1, v5, v8)
-- VGG16
-- ResNet50
-
-### Web Development
-- Django
-- Flask
-- HTML5
-- CSS3
-- Bootstrap
-
-### Databases
-- MySQL
-- SQLite
-
-### Development Tools
-- Git
-- GitHub
-- Docker
-- Google Colab
-- Kaggle
-- VS Code
-- Overleaf
-
----
-
 ## 📌 Research Interests
 
 - Computer Vision
@@ -77,10 +37,10 @@ An AI-assisted cervical cancer screening system utilizing deep learning and comp
 
 ---
 
-### 🔹 Skin Disease Classification
-Deep learning models for automated skin disease detection and classification using medical image datasets.
+### 🔹 Sobuy - Everyday needs e-commerce platform
+A web application that enhances the shopping experience for customers and also makes life easier for managing business insights all within one platform for a startup.
 
-**Technologies:** Python • PyTorch • CNN
+**Technologies:** Python • Flask • Tailwind CSS • SQL
 
 ---
 
