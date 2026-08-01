@@ -62,3 +62,5 @@ A web application that allows users to rent musical instruments through an easy-
 
 
 > *"Turning data into meaningful insights and intelligent solutions."*
+
+Feel free to reach - mail.zulkar@gmail.com
