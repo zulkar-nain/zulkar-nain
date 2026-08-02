@@ -33,14 +33,14 @@ Currently, I'm working as a **Production Approval Analyst**, while expanding my 
 ### 🔹 Enhancing VIA using Computer Vision
 An AI-assisted cervical cancer screening system utilizing deep learning and computer vision techniques to improve Visual Inspection with Acetic Acid (VIA).
 
-**Technologies:** Python • OpenCV • TensorFlow • VGG16 • ResNet50
+**Technologies:** Python • OpenCV • TensorFlow • VGG16 • ResNet50 • RandomForest
 
 ---
 
 ### 🔹 Sobuy - Everyday needs e-commerce platform
 A web application that enhances the shopping experience for customers and also makes life easier for managing business insights all within one platform for a startup.
 
-**Technologies:** Python • Flask • Tailwind CSS • SQL
+**Technologies:** Python • Flask • Tailwind CSS • SQLite
 
 ---
 
