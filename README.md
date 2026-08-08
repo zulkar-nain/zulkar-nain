@@ -4,7 +4,7 @@
 
 I'm a **Computer Science & Engineering graduate from BRAC University** with a strong interest in **Machine Learning, Computer Vision, Data Science, and AI for Healthcare**.
 
-My work focuses on applying machine learning and deep learning to real-world problems, particularly in **medical image analysis, healthcare prediction, and interpretable AI**. I enjoy experimenting with different architectures, evaluating models, and turning research ideas into practical systems.
+My work focuses on applying machine learning and deep learning to real-world problems, particularly in **Medical Image Analysis, Healthcare Prediction, and Interpretable AI**. I enjoy experimenting with different architectures, evaluating models, and turning research ideas into practical systems.
 
 Currently, I'm working as a **Production Approval Analyst**, while expanding my expertise in AI and preparing for graduate studies in Data Science.
 
@@ -34,19 +34,6 @@ My current research interests include:
 * **Vision Transformers**
 * **Machine Learning for Healthcare**
 * **Statistical & Data-driven Methods**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zulkar-nain&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulkar-nain&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zulkar-nain&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
