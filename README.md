@@ -1,66 +1,69 @@
-# Hi there! 👋 I'm Zulkar Nain
+# Hi, I'm Zulkar Nain 👋
 
-I'm a Computer Science graduate from **BRAC University** with a strong interest in **Machine Learning, Computer Vision, Data Science, and AI for Healthcare**. I enjoy building intelligent systems that solve real-world problems and continuously explore new technologies through research and personal projects.
+### Computer Science Graduate | Machine Learning & Computer Vision | Healthcare AI
+
+I'm a **Computer Science & Engineering graduate from BRAC University** with a strong interest in **Machine Learning, Computer Vision, Data Science, and AI for Healthcare**.
+
+My work focuses on applying machine learning and deep learning to real-world problems, particularly in **medical image analysis, healthcare prediction, and interpretable AI**. I enjoy experimenting with different architectures, evaluating models, and turning research ideas into practical systems.
 
 Currently, I'm working as a **Production Approval Analyst**, while expanding my expertise in AI and preparing for graduate studies in Data Science.
 
 ---
 
-## 🚀 About Me
+## 🧠 What I Work On
 
-- 🎓 BSc in Computer Science & Engineering, BRAC University
-- 🔬 Undergraduate Thesis: **Enhancing VIA using Computer Vision**
-- 🤖 Passionate about Machine Learning, Deep Learning, and Computer Vision
-- 📊 Interested in Data Science, Medical AI, and Applied Research
-- 📖 Currently learning advanced ML techniques and MLOps
-- 🌍 Based in Dhaka, Bangladesh
-
----
-
-## 📌 Research Interests
-
-- Computer Vision
-- Deep Learning
-- Medical Image Analysis
-- Explainable AI
-- Healthcare Data Science
-- Machine Learning Optimization
+* 🤖 Machine Learning & Deep Learning
+* 👁️ Computer Vision & Medical Image Analysis
+* 🏥 Healthcare AI
+* 📊 Data Science & Predictive Analytics
+* 🔍 Explainable AI (XAI)
+* 🧪 Applied Machine Learning Research
+* ⚙️ MLOps & ML Lifecycle
 
 ---
 
-## 📂 Featured Projects
+## 📚 Research Interests
 
-### 🔹 Enhancing VIA using Computer Vision
-An AI-assisted cervical cancer screening system utilizing deep learning and computer vision techniques to improve Visual Inspection with Acetic Acid (VIA).
+My current research interests include:
 
-**Technologies:** Python • OpenCV • TensorFlow • VGG16 • ResNet50 • RandomForest
-
----
-
-### 🔹 Sobuy - Everyday needs e-commerce platform
-A web application that enhances the shopping experience for customers and also makes life easier for managing business insights all within one platform for a startup.
-
-**Technologies:** Python • Flask • Tailwind CSS • SQLite
-
----
-
-### 🔹 MelodyShare
-A web application that allows users to rent musical instruments through an easy-to-use online platform.
-
-**Technologies:** Django • Bootstrap • MySQL
+* **Medical Image Analysis**
+* **Computer Vision**
+* **Healthcare Data Science**
+* **Deep Learning**
+* **Explainable AI**
+* **Vision Transformers**
+* **Machine Learning for Healthcare**
+* **Statistical & Data-driven Methods**
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-- Machine Learning Research
-- Data Science
-- MLOps
-- AI for Healthcare
-- Computer Vision
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zulkar-nain&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulkar-nain&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zulkar-nain&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-> *"Turning data into meaningful insights and intelligent solutions."*
+## 🌱 Currently Exploring
+
+* Advanced Machine Learning
+* Data Science
+* Medical AI
+* Explainable AI
+* MLOps
+* Research methodologies
+* Statistical learning and optimization
+
+---
+
+### 💡 Building at the intersection of Data, AI & Healthcare.
+
+*Always learning. Always experimenting.*
 
 Feel free to reach - mail.zulkar@gmail.com
