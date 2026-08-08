@@ -6,7 +6,7 @@ I'm a **Computer Science & Engineering graduate from BRAC University** with a st
 
 My work focuses on applying machine learning and deep learning to real-world problems, particularly in **Medical Image Analysis, Healthcare Prediction, and Interpretable AI**. I enjoy experimenting with different architectures, evaluating models, and turning research ideas into practical systems.
 
-Currently, I'm working as a **Production Approval Analyst**, while expanding my expertise in AI and preparing for graduate studies in Data Science.
+Currently, I'm working as a **Production Approval Analyst**, while expanding my expertise in AI and preparing for Postgraduate studies in Data Science.
 
 ---
 
