@@ -52,6 +52,7 @@ My current research interests include:
 ### 💡 Building at the intersection of Data, AI & Healthcare.
 
 *"Don't be the best, be the only!"*
+
 *"To be great, is to be misunderstood!"*
 
 Feel free to reach - mail.zulkar@gmail.com
